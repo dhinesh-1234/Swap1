@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Swap1{
+public Swap1{
  public static void (String args[]){
   System.out.println("Before swapping");
   int x=10;
